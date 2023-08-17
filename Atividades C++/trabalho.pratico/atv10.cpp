@@ -1,7 +1,7 @@
-/*10) Faça um programa em C++ que solicite ao usuário que digite 50 números. Estes dados serão
-armazenados em um vetor. Após o usuário digitar todos os números do vetor, o programa
-solicitará que usuário digite um número x. Finalmente o programa exibirá na tela todos os
-números do vetor digitado que são maiores ou iguais a x.*/
+/*10) Faï¿½a um programa em C++ que solicite ao usuï¿½rio que digite 50 nï¿½meros. Estes dados serï¿½o
+armazenados em um vetor. Apï¿½s o usuï¿½rio digitar todos os nï¿½meros do vetor, o programa
+solicitarï¿½ que usuï¿½rio digite um nï¿½mero x. Finalmente o programa exibirï¿½ na tela todos os
+nï¿½meros do vetor digitado que sï¿½o maiores ou iguais a x.*/
 #include <iostream>
 using namespace std;
 
