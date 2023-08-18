@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 int main() {
 	int angulo1,angulo2,angulo3;
 	cout<<"Digite o angulo do triangulo: ";
