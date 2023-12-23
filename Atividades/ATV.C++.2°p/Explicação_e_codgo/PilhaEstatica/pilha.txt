@@ -1,0 +1,18 @@
+Tipo abstrato de dados:
+
+conjuntos + operacões sobre este conjunto
+--------------------
+
+Pilha 
+
+É um TAD do tipo  LIFO(Last In First Out).Possui as seguinte operações:
+
+-Criar uma pilha vazia;
+-Empilhar um elemento;
+-Desempilhar um elemento;
+-Acessar o elemento do topo;
+-Obter a quantidade total de elementos;
+-Verificar se a pilha está vazia;
+-Verificar se a pilha está cheia(opcional).
+----------------------------------------
+Prática: Implementar uma pilha Estática (Possui um tamanho máximo)
