@@ -1,0 +1,13 @@
+Fila (Dinâmica/Encadeada/usando esr=truturas de dados auto-referenciadas)
+
+*Uma fila é um tipo Abstrato de Dados (Tad) do tipo FIFO(First In,First Out).
+Ela pode ser usada sempre que um sistema prescisar organizar um conjunto de dados por ordem de chegada.
+
+São operações sobre um Fila:
+
+-Criar uma fila vazia;
+-Desenfilerar um elemento;
+-Desenfilerar um elemento;
+-obter o elemento do início;
+-obeter a quntidade de elementos;
+-Verificar se a fila está vazia; 
